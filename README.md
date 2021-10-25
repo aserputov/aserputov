@@ -6,6 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=qck-ssg-final)](https://github.com/aserputov/qck-ssg-final)
 
 
+[![serputov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aserputov)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
