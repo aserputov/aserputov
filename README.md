@@ -3,7 +3,7 @@
 [![Serputov's GitHub stats](https://github-readme-stats.vercel.app/api?username=aserputov)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=qck-ssg-final)](https://github.com/aserputov/qck-ssg-final)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=qck-ssg-final)](https://github.com/aserputov/QckStaticSiteGenerator)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&langs_count=10)](https://github.com/aserputov/github-readme-stats)
 
