@@ -10,9 +10,4 @@
 
 [![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)
 
-
-```` 
-```
-Look! You can see my backticks.
-```
-````
+> :warning: **If you are using mobile browser**: Be very careful here!
