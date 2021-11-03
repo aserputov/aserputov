@@ -11,3 +11,10 @@
 [![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)
 [![](https://img.shields.io/badge/-React-blue?logo=React&logoColor=black&style=flat)](https://www.reactjs.org)
 
+
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/aswsx/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=aswsx&color=DE002D">
+   </a>
+</div>
