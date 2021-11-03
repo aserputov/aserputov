@@ -18,16 +18,3 @@
        <img width="175px" src="https://komarev.com/ghpvc/?username=aswsx&color=DE002D">
    </a>
 </div>
-
-
-<div>
-    <ul>
-      <li>OK</li>
-      <li>GOGO</li>
-      <li>HELLO</li>
-    </ul>
-  </nav>
-<main>HELLO</main>
-</div>
- 
-
