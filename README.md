@@ -20,14 +20,14 @@
 </div>
 
 
-
-        <ul>
-          <li>OK</li>
-          <li>GOGO</li>
-          <li>HELLO</li>
-        </ul>
-      </nav>
-
-    <main>HELLO</main>
+<div>
+    <ul>
+      <li>OK</li>
+      <li>GOGO</li>
+      <li>HELLO</li>
+    </ul>
+  </nav>
+<main>HELLO</main>
+</div>
  
 
