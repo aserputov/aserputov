@@ -15,6 +15,6 @@
 
 <div align="center" style="margin: 0px 0">
    <a href="https://github.com/aserputov/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=aswsx&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=aserputov&color=green">
    </a>
 </div>
