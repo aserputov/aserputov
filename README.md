@@ -14,7 +14,7 @@
 
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/aswsx/github-profile-views-counter">
+   <a href="https://github.com/aserputov/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=aswsx&color=DE002D">
    </a>
 </div>
