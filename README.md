@@ -15,10 +15,10 @@
 [![](https://img.shields.io/badge/-Swift-white?logo=Swift&logoColor=red&style=flat)](https://www.swift.org)
 
 
-<div align="left" style="margin: 0px 0">
+<!-- <div align="left" style="margin: 0px 0">
    <a href="https://github.com/aserputov/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=aserputov&color=green">
    </a>
-</div>
+</div> -->
 
 
