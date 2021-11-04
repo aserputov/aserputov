@@ -10,9 +10,9 @@
 
 
 [![](https://img.shields.io/badge/-MongoDB-blue?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)
-[![](https://img.shields.io/badge/-React-blue?logo=React&logoColor=black&style=flat)](https://www.reactjs.org)
+[![](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat)](https://www.reactjs.org)
 [![](https://img.shields.io/badge/-Angular-blue?logo=angular&logoColor=white&style=flat)](https://www.angular.com)
-[![](https://img.shields.io/badge/-Swift-blue?logo=Swift&logoColor=red&style=flat)](https://www.swift.org)
+[![](https://img.shields.io/badge/-Swift-blue?logo=Swift&logoColor=white&style=flat)](https://www.swift.org)
 
 
 <!-- <div align="left" style="margin: 0px 0">
