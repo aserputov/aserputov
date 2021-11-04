@@ -10,7 +10,8 @@
 
 [![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)
 [![](https://img.shields.io/badge/-React-blue?logo=React&logoColor=black&style=flat)](https://www.reactjs.org)
-
+[![](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white&style=flat)](https://www.angular.com)
+[![](https://img.shields.io/badge/-React-blue?logo=React&logoColor=black&style=flat)](https://www.reactjs.org)
 
 
 <div align="center" style="margin: 0px 0">
