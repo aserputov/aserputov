@@ -6,7 +6,7 @@
 
 [![Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=QckStaticSiteGenerator)](https://github.com/aserputov/QckStaticSiteGenerator)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&langs_count=15)](https://github.com/aserputov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&langs_count=7)](https://github.com/aserputov/github-readme-stats)
 
 
 [![](https://img.shields.io/badge/-MongoDB-blue?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)
