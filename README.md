@@ -3,8 +3,7 @@
 
 [![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov)](https://github.com/aserputov?tab=repositories)
 
-### Best Repo
-[![Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=QckStaticSiteGenerator)](https://github.com/aserputov/QckStaticSiteGenerator)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&langs_count=4)](https://github.com/aserputov/github-readme-stats)
 
@@ -33,6 +32,9 @@
 
 *Skills Level:* - ▪︎
 
+---------
+### Best Repo
+[![Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=QckStaticSiteGenerator)](https://github.com/aserputov/QckStaticSiteGenerator)
 
 
 
