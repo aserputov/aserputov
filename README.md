@@ -19,7 +19,7 @@
 ### ℹ️ Brief Intro 
 ----------
 
-⚫️ &nbsp;&nbsp;```# Front-end: #``` HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
+⚫️ &nbsp;&nbsp;``` *Front-end:* ``` HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
 
 ⚫️ &nbsp;&nbsp;Back-end: C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: Neutral/Strong)
 
