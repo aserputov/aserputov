@@ -18,17 +18,17 @@
 
 ### ℹ️ Brief Intro 
 
-⚫️   Front-end: HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
+⚫️ &nbsp;&nbsp;Front-end: HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
 
-⚫️   Back-end: C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: Neutral/Strong)
+⚫️ &nbsp;&nbsp;Back-end: C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: Neutral/Strong)
 
-⚫️   DB: Relational: Oracle(SQL/PLSQL), MySql, Non-Relational:MongoDB. (Skills Level: Strong)
+⚫️ &nbsp;&nbsp;DB: Relational: Oracle(SQL/PLSQL), MySql, Non-Relational:MongoDB. (Skills Level: Strong)
 
-⚫️   Mobile: Swift, React Native, Flutter. (Skills Level: Neutral)
+⚫️ &nbsp;&nbsp;Mobile: Swift, React Native, Flutter. (Skills Level: Neutral)
 
-⚫️   Modeling: Blender, 3dsMax. (Skills Level:  Beginner))
+⚫️ &nbsp;&nbsp;Modeling: Blender, 3dsMax. (Skills Level:  Beginner))
 
-⚫️   Desktop App: Electron, Delphi. (Skills Level: Beginner+)
+⚫️ &nbsp;&nbsp;Desktop App: Electron, Delphi. (Skills Level: Beginner+)
 
 
 
