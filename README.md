@@ -27,7 +27,7 @@ DB: Relational: Oracle(SQL/PLSQL), MySql, Non-Relational:MongoDB. (Skills Level:
 
 Mobile: Swift, React Native, Flutter. (Skills Level: Neutral)
 
-Modeling: Blender, 3dsMax. (Skills Level: <p style="color=yellow"> Beginner</p>)
+<p>Modeling: Blender, 3dsMax. (Skills Level:  Beginner)</p>
 
 Desktop App: Electron, Delphi. (Skills Level: Beginner+)
 
