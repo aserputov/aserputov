@@ -21,7 +21,7 @@
 
 ● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue, Testing Lib. (Skills Level: ▪︎▪︎▪︎▪︎▪︎)
 
-● &nbsp;&nbsp;``` Back-end: ``` C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: ▪︎▪︎▪︎▫▫)
+● &nbsp;&nbsp;``` Back-end: ``` C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: ▪︎▪︎▪︎▫○▫)
 
 ● &nbsp;&nbsp;``` DB: ``` Relational: Oracle(SQL/PLSQL), MySql, Non-Relational:MongoDB. (Skills Level: ▪︎▪︎▪︎▫▫)
 
