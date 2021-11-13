@@ -19,18 +19,19 @@
 
 ### Brief Intro:
 
-Front-end: HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
-
-Back-end: C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: Neutral/Strong)
-
-DB: Relational: Oracle(SQL/PLSQL), MySql, Non-Relational:MongoDB. (Skills Level: Strong)
-
-Mobile: Swift, React Native, Flutter. (Skills Level: Neutral)
-
-![#f03c15](Modeling: Blender, 3dsMax. (Skills Level:  Beginner))
-
 ```diff
-+ Green
++ Front-end: HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
+
++ Back-end: C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: Neutral/Strong)
+
++ DB: Relational: Oracle(SQL/PLSQL), MySql, Non-Relational:MongoDB. (Skills Level: Strong)
+
++ Mobile: Swift, React Native, Flutter. (Skills Level: Neutral)
+
++Modeling: Blender, 3dsMax. (Skills Level:  Beginner))
+
+
+ Green
 - Red
 ! Orange
 @@ Pink @@
@@ -39,6 +40,8 @@ Mobile: Swift, React Native, Flutter. (Skills Level: Neutral)
 
 
 Desktop App: Electron, Delphi. (Skills Level: Beginner+)
+
+
 
 <!-- <div align="left" style="margin: 0px 0">
    <a href="https://github.com/aserputov/github-profile-views-counter">
