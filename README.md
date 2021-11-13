@@ -19,7 +19,7 @@
 ### ℹ️ Brief Intro 
 ----------
 
-● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JS, TypeScript. ```Frameworks:``` React, Angular,Vue, Testing Lib. *Skills Level:* ▪︎▪︎▪︎▪︎▪︎
+● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JS, TypeScript. ```Frameworks:``` React, Angular,Vue, Testing Lib.  ▪︎▪︎▪︎▪︎▪︎
 
 ● &nbsp;&nbsp;``` Back-end: ``` C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). ▪︎▪︎▪︎
 
@@ -31,6 +31,7 @@
 
 ● &nbsp;&nbsp;``` Desktop App: ``` Electron, Delphi.  ▪︎▪︎▪︎
 
+/ *Skills Level:* - ▪︎
 
 
 
