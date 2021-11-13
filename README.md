@@ -22,7 +22,6 @@
 ```diff
 + Front-end:
 ``` 
-
 ```diff 
 - HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
 ```
