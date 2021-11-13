@@ -21,15 +21,15 @@
 
 ● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JS, TypeScript. ```Frameworks:``` React, Angular,Vue, Testing Lib. *Skills Level:* ▪︎▪︎▪︎▪︎▪︎
 
-● &nbsp;&nbsp;``` Back-end: ``` C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). *Skills Level:* ▪︎▪︎▪︎
+● &nbsp;&nbsp;``` Back-end: ``` C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). ▪︎▪︎▪︎
 
-● &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySql, ```Non-Relational:``` MongoDB. *Skills Level:* ▪︎▪︎▪︎▪︎
+● &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySql, ```Non-Relational:``` MongoDB. ▪︎▪︎▪︎▪︎
 
-● &nbsp;&nbsp;``` Mobile: ``` Swift, React Native, Flutter. *Skills Level:* ▪︎▪︎▪︎▪︎
+● &nbsp;&nbsp;``` Mobile: ``` Swift, React Native, Flutter.  ▪︎▪︎▪︎▪︎
 
-● &nbsp;&nbsp;``` Modeling: ``` Blender, 3dsMax. *Skills Level:* ▪︎▪︎
+● &nbsp;&nbsp;``` Modeling: ``` Blender, 3dsMax.  ▪︎▪︎
 
-● &nbsp;&nbsp;``` Desktop App: ``` Electron, Delphi. *Skills Level:* ▪︎▪︎▪︎
+● &nbsp;&nbsp;``` Desktop App: ``` Electron, Delphi.  ▪︎▪︎▪︎
 
 
 
