@@ -1,7 +1,7 @@
 # ❄️ *Welcome* ❄️
 
 
-[![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov)](https://github.com/anuraghazra/github-readme-stats)
+[![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov)](https://github.com/aserputov?tab=repositories)
 
 
 [![Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=QckStaticSiteGenerator)](https://github.com/aserputov/QckStaticSiteGenerator)
