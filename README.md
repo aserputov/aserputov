@@ -3,7 +3,7 @@
 
 [![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov)](https://github.com/aserputov?tab=repositories)
 
-
+### Best Repo
 [![Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=QckStaticSiteGenerator)](https://github.com/aserputov/QckStaticSiteGenerator)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&langs_count=4)](https://github.com/aserputov/github-readme-stats)
@@ -16,6 +16,15 @@
 
 [![](https://img.shields.io/badge/-Swift-green?logo=Swift&logoColor=white&style=flat)](https://www.swift.org)
 
+
+### Brief Intro:
+
+```Front-end: HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
+Back-end: C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: Neutral/Strong)
+DB: Relational: Oracle(SQL/PLSQL), MySql, Non-Relational:MongoDB. (Skills Level: Strong)
+Mobile: Swift, React Native, Flutter. (Skills Level: Neutral)
+Modeling: Blender, 3dsMax. (Skills Level: <p style="color=yellow"> Beginner</p>)
+Desktop App: Electron, Delphi. (Skills Level: Beginner+)```
 
 <!-- <div align="left" style="margin: 0px 0">
    <a href="https://github.com/aserputov/github-profile-views-counter">
