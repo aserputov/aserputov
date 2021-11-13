@@ -20,8 +20,7 @@
 ### Brief Intro:
 
 ```diff
-+ Front-end:   
-HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
++ Front-end:      HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
 ``` 
 ```
 - 
