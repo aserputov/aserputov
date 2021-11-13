@@ -29,7 +29,14 @@ Mobile: Swift, React Native, Flutter. (Skills Level: Neutral)
 
 ![#f03c15](Modeling: Blender, 3dsMax. (Skills Level:  Beginner))
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+```diff
++ Green
+- Red
+! Orange
+@@ Pink @@
+# Gray
+...
+
 
 Desktop App: Electron, Delphi. (Skills Level: Beginner+)
 
