@@ -23,7 +23,7 @@
 
 ● &nbsp;&nbsp;``` Back-end: ``` C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: ▪︎▪︎▪︎▫▫)
 
-● &nbsp;&nbsp;``` DB: ``` Relational: Oracle(SQL/PLSQL), MySql, Non-Relational:MongoDB. (Skills Level: ▪︎▪︎▪︎▪︎▫)
+● &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySql, ```Non-Relational:``` MongoDB. (Skills Level: ▪︎▪︎▪︎▪︎▫)
 
 ● &nbsp;&nbsp;``` Mobile: ``` Swift, React Native, Flutter. (Skills Level: ▪︎▪︎▪︎▪︎▫)
 
