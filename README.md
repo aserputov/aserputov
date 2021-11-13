@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/-Swift-green?logo=Swift&logoColor=white&style=flat)](https://www.swift.org) -->
 
 
-### ℹ️ Brief Intro 
+### ℹ️  Brief Intro 
 ----------
 
 ● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JavaScript, TypeScript. ```Frameworks:``` React, Angular,Vue, Testing Lib.  ▪︎▪︎▪︎▪︎▪︎
@@ -33,7 +33,7 @@
 *Skills Level:* - ▪︎
 
 ---------
-### ℹ️ Best Repo
+### ℹ️  Best Repo
 [![Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=QckStaticSiteGenerator)](https://github.com/aserputov/QckStaticSiteGenerator)
 
 
