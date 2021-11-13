@@ -19,12 +19,12 @@
 
 ### Brief Intro:
 
-```Front-end: HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
+Front-end: HTML, CSS, LightScript(JS), TypeScript. Frameworks: React, Angular,Vue,(Testing Lib). (Skills Level: Strong)
 Back-end: C, C++, Java(OOP,), Node.js, Pascal, Python(Jupyter notebook). (Skills Level: Neutral/Strong)
 DB: Relational: Oracle(SQL/PLSQL), MySql, Non-Relational:MongoDB. (Skills Level: Strong)
 Mobile: Swift, React Native, Flutter. (Skills Level: Neutral)
 Modeling: Blender, 3dsMax. (Skills Level: <p style="color=yellow"> Beginner</p>)
-Desktop App: Electron, Delphi. (Skills Level: Beginner+)```
+Desktop App: Electron, Delphi. (Skills Level: Beginner+)
 
 <!-- <div align="left" style="margin: 0px 0">
    <a href="https://github.com/aserputov/github-profile-views-counter">
