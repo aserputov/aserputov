@@ -31,7 +31,7 @@
 
 ● &nbsp;&nbsp;``` Desktop App: ``` Electron, Delphi.  ▪︎▪︎▪︎
 
-/ *Skills Level:* - ▪︎
+*Skills Level:* - ▪︎
 
 
 
