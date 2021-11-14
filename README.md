@@ -1,4 +1,4 @@
-# ❄️ *Welcome* ❄️
+# 🖇 *Welcome* 
 
 ### ℹ️  Stat 
 ----------
@@ -38,7 +38,7 @@
 ----------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&langs_count=4)](https://github.com/aserputov/github-readme-stats)
 
-🪄🪄🪄🪄🪄
+❄️❄️❄️❄️❄️
 
 
 
