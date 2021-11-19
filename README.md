@@ -22,9 +22,11 @@
 
 ● &nbsp;&nbsp;``` Mobile: ``` Swift, React Native, Flutter.  ▪︎▪︎▪︎▪︎
 
-● &nbsp;&nbsp;``` Modeling: ``` Blender, 3dsMax.  ▪︎▪︎
+● &nbsp;&nbsp;``` Modeling: ``` Blender, 3dsMax, SketchUp.  ▪︎▪︎
 
 ● &nbsp;&nbsp;``` Desktop App: ``` Electron, Delphi.  ▪︎▪︎▪︎
+
+● &nbsp;&nbsp;``` UX/UI ``` Figma, Canva. ▪︎▪︎▪︎▪︎
 
 *Skills Level:* - ▪︎
 
