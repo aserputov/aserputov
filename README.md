@@ -1,6 +1,6 @@
 # 🖇 *Welcome* 
 
-### ℹ️  Stat 
+## ℹ️  Stat 
 ----------
 [![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov)](https://github.com/aserputov?tab=repositories)
 
@@ -11,10 +11,10 @@
 [![](https://img.shields.io/badge/-Swift-green?logo=Swift&logoColor=white&style=flat)](https://www.swift.org) -->
 
 
-### ℹ️  Brief Intro 
+## ℹ️  Brief Intro 
 ----------
 
-# Skills
+### Skills
 
 ● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JavaScript, TypeScript. ```Frameworks:``` React, Angular,Vue, Testing Lib.  ▪︎▪︎▪︎▪︎▪︎
 
