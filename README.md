@@ -1,7 +1,7 @@
 # 🖇 *Welcome* 
 
 ## ℹ️  Stat 
-----------
+
 [![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov)](https://github.com/aserputov?tab=repositories)
 
 <!-- [![](https://img.shields.io/badge/-JavaScript-green?logo=JavaScript&logoColor=white&style=flat)](https://www.https://www.javascript.com)
@@ -12,7 +12,7 @@
 
 
 ## ℹ️  Brief Intro 
-----------
+
 ### Skills
 
 
