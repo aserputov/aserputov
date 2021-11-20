@@ -16,7 +16,7 @@
 
 ### Skills
 
-● &nbsp;&nbsp;``` _Front-end_: ``` HTML, CSS, JavaScript, TypeScript. ```Frameworks:``` React, Angular,Vue, Testing Lib.  ▪︎▪︎▪︎▪︎▪︎
+● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JavaScript, TypeScript. ```Frameworks:``` React, Angular,Vue, Testing Lib.  ▪︎▪︎▪︎▪︎▪︎
 
 ● &nbsp;&nbsp;``` Back-end: ``` C, C++(OOP), Java(OOP), Node.js, Pascal, Python(Jupyter notebook). ▪︎▪︎▪︎
 
