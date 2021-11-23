@@ -46,7 +46,7 @@
 
 
 
-https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png![image](https://user-images.githubusercontent.com/65831678/143137815-24fccb4d-a4a3-49bf-84e4-303f67c0a64d.png)
+![image](https://user-images.githubusercontent.com/65831678/143137815-24fccb4d-a4a3-49bf-84e4-303f67c0a64d.png)
 
 
 
