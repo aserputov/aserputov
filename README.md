@@ -44,16 +44,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&langs_count=4)](https://github.com/aserputov/github-readme-stats)
 
-
-
-![image](https://user-images.githubusercontent.com/65831678/143137815-24fccb4d-a4a3-49bf-84e4-303f67c0a64d.png)
-
+<img width="175px" src="https://user-images.githubusercontent.com/65831678/143137815-24fccb4d-a4a3-49bf-84e4-303f67c0a64d.png">
 
 
 
 <!-- <div align="left" style="margin: 0px 0">
    <a href="https://github.com/aserputov/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=aserputov&color=green">
+       
    </a>
 </div> -->
 
