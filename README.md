@@ -20,7 +20,7 @@
 
 ● &nbsp;&nbsp;``` Back-end: ``` C, C++(OOP), Java(OOP), Node.js, Pascal, Python(Jupyter notebook). ▪︎▪︎▪︎
 
-● &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySQL, ```Non-Relational:``` MongoDB. ▪︎▪︎▪︎▪︎
+● &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySQL, ```Non-Relational:``` MongoDB, FireStore ▪︎▪︎▪︎▪︎
 
 ● &nbsp;&nbsp;``` Mobile: ``` Swift, React Native, Flutter.  ▪︎▪︎▪︎▪︎
 
