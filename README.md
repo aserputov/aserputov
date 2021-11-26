@@ -37,7 +37,7 @@
 
 ## ℹ️  Best Repo
 
-[![Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=SpacexAPI)](https://github.com/aserputov/SpacexAPI)
+[![Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=SpacexAPI)](https://github.com/aserputov/SpacexAP)
 [![Popular Repo](https://github-readme-stats.vercel.app/api/pin/?username=aserputov&repo=Qck)](https://github.com/aserputov/Qck)
 
 ## ℹ️  Top Langs 
