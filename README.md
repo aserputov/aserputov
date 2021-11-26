@@ -18,7 +18,7 @@
 
 ● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JavaScript, TypeScript. ```Frameworks:``` React, Angular, Vue.  ▪︎▪︎▪︎▪︎▪︎
 
-● &nbsp;&nbsp;``` Back-end: ``` C, C++(OOP), Java(OOP), Node.js, Pascal, Python(Jupyter notebook). ▪︎▪︎▪︎
+● &nbsp;&nbsp;``` Back-end: ``` C, C++(OOP), Java(OOP), Node.js, Pascal, Python. ▪︎▪︎▪︎
 
 ● &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySQL, ```Non-Relational:``` MongoDB, FireStore ▪︎▪︎▪︎▪︎
 
