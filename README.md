@@ -30,7 +30,7 @@
 
 ● &nbsp;&nbsp;``` UX/UI ``` Figma, Canva. ▪︎▪︎▪︎▪︎
 
-● &nbsp;&nbsp;``` Other ``` CI/CD. ▪︎▪︎▪︎
+● &nbsp;&nbsp;``` Other ``` CI/CD, git rebase/amend/bisect. ▪︎▪︎▪︎▪︎
 
 *Skills Level:* - ▪︎
 
