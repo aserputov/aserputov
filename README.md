@@ -32,7 +32,7 @@
 
 ● &nbsp;&nbsp;``` Other ``` CI/CD, git rebase/amend/bisect. ▪︎▪︎▪︎▪︎
 
-*Skills Level:* - ▪︎
+<!-- *Skills Level:* - ▪︎ -->
 
 
 ## ℹ️  Best Repo
