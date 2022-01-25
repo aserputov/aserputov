@@ -2,7 +2,7 @@
 
 ## ℹ️  Stat 
 
-[![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov)](https://github.com/aserputov?tab=repositories)
+[![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&border_color=2e405)](https://github.com/aserputov?tab=repositories)
 
 <!-- [![](https://img.shields.io/badge/-JavaScript-green?logo=JavaScript&logoColor=white&style=flat)](https://www.https://www.javascript.com)
 [![](https://img.shields.io/badge/-MongoDB-blue?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)
