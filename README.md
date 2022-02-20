@@ -25,6 +25,6 @@
 - &nbsp;&nbsp;``` UX/UI ``` Figma, Canva.  
 
 
-[Additional Info](https://github.com/aserputov/serputov)
+[Additional Info...](https://github.com/aserputov/serputov)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
