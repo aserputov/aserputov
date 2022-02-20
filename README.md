@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome&fontSize=50)
 
 
-## ℹ️  Stat 
+## ℹ️  Brief Intro 
 
 [![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&border_color=#303030)](https://github.com/aserputov?tab=repositories)
 
@@ -10,9 +10,6 @@
 [![](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat)](https://www.reactjs.org)
 [![](https://img.shields.io/badge/-Angular-blue?logo=angular&logoColor=white&style=flat)](https://www.angular.com)
 [![](https://img.shields.io/badge/-Swift-green?logo=Swift&logoColor=white&style=flat)](https://www.swift.org) -->
-
-
-## ℹ️  Brief Intro 
 
 ### Skills
 
