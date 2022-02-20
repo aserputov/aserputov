@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=50)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer)
 
 ## ℹ️  Brief Intro 
 
