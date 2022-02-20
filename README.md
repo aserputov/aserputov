@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome&fontSize=50)
 
-
-
 ## ℹ️  Brief Intro 
 
 [![Serputov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&border_color=#303030)](https://github.com/aserputov?tab=repositories)
