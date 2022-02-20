@@ -12,7 +12,6 @@
 
 ### ℹ️  Skills
 
-
 ● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JavaScript, TypeScript. ```Frameworks:``` React, Angular, Vue. 
 
 ● &nbsp;&nbsp;``` Back-end: ``` C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
@@ -29,21 +28,7 @@
 
 ● &nbsp;&nbsp;``` UX/UI ``` Figma, Canva.  
 
-<!-- *Skills Level:* - ▪︎ -->
 
 ℹ️  [Additional Info](https://github.com/aserputov/serputov)
-
-<!-- <a href="https://dev.to/aserputov"><img width="105px" padding="0px 0px 0px 80px" src="https://user-images.githubusercontent.com/65831678/143137815-24fccb4d-a4a3-49bf-84e4-303f67c0a64d.png"></a>
- -->
-
-
-
-
-<!-- <div align="left" style="margin: 0px 0">
-   <a href="https://github.com/aserputov/github-profile-views-counter">
-       
-   </a>
-</div> -->
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
