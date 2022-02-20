@@ -10,19 +10,19 @@
 
 - &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JavaScript, TypeScript. ```Frameworks:``` React, Angular, Vue. 
 
-● &nbsp;&nbsp;``` Back-end: ``` C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
+- &nbsp;&nbsp;``` Back-end: ``` C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
 
-● &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore 
+- &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore 
 
-● &nbsp;&nbsp;``` Mobile: ``` Swift, React Native, Flutter.  
+- &nbsp;&nbsp;``` Mobile: ``` Swift, React Native, Flutter.  
 
-● &nbsp;&nbsp;``` Other ``` CI/CD, git rebase/amend/bisect.
+- &nbsp;&nbsp;``` Other ``` CI/CD, git rebase/amend/bisect.
 
-● &nbsp;&nbsp;``` Desktop App: ``` Electron, Delphi. 
+- &nbsp;&nbsp;``` Desktop App: ``` Electron, Delphi. 
 
-● &nbsp;&nbsp;``` Modeling: ``` Blender, 3dsMax, SketchUp. 
+- &nbsp;&nbsp;``` Modeling: ``` Blender, 3dsMax, SketchUp. 
 
-● &nbsp;&nbsp;``` UX/UI ``` Figma, Canva.  
+- &nbsp;&nbsp;``` UX/UI ``` Figma, Canva.  
 
 
 [Additional Info](https://github.com/aserputov/serputov)
