@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-Angular-blue?logo=angular&logoColor=white&style=flat)](https://www.angular.com)
 [![](https://img.shields.io/badge/-Swift-green?logo=Swift&logoColor=white&style=flat)](https://www.swift.org) -->
 
-### Skills
+## ℹ️  Skills
 
 
 ● &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JavaScript, TypeScript. ```Frameworks:``` React, Angular, Vue. 
