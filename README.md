@@ -27,6 +27,6 @@
 
 [More Info ...](https://github.com/aserputov/serputov)
 
-<a href="https://app.daily.dev/aserputoff"><img src="https://api.daily.dev/devcards/88d0a11e2ac946dc83cab8837ff76253.png?r=2l6" width="400" alt="Anatoliy Serputoff's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/aserputoff"><img src="https://api.daily.dev/devcards/88d0a11e2ac946dc83cab8837ff76253.png?r=2l6" width="400" alt="Anatoliy Serputoff's Dev Card"/></a> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
