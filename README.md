@@ -12,7 +12,7 @@
 
 - &nbsp;&nbsp;``` Back-end: ``` C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
 
-- &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore 
+- &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore, Redis. 
 
 - &nbsp;&nbsp;``` Mobile: ``` Swift, React Native, Flutter.  
 
