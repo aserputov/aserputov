@@ -3,8 +3,8 @@
 <!-- [![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&border_color=#303030&theme=vue)](https://github.com/aserputov?tab=repositories) -->
 ![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030)
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030" alt="NazarovAsadbek github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030" alt="NazarovAsadbek github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030" />
 </div>
 
 <!-- [![](https://img.shields.io/badge/-JavaScript-green?logo=JavaScript&logoColor=white&style=flat)](https://www.https://www.javascript.com)
