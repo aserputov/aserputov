@@ -39,15 +39,6 @@ Modeling: Blender, 3dsMax, SketchUp.
 
 UX/UI ``` Figma, Canva.  
 
-Mobile: Swift, React Native, Flutter.  
-
-Other: CI/CD, git rebase/amend/bisect.
-
-Desktop App: Electron, Delphi. 
-
-Modeling: Blender, 3dsMax, SketchUp. 
-
-UX/UI ``` Figma, Canva.  
 ```
 
 [More Info ...](https://github.com/aserputov/serputov)
