@@ -23,21 +23,21 @@
 ```diff
 + Skills
 
-Front-end: HTML, CSS, JavaScript, TypeScript. + Frameworks:``` React, Angular, Vue. 
+- Front-end: HTML, CSS, JavaScript, TypeScript. + Frameworks:``` React, Angular, Vue. 
 
-Back-end: C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
+- Back-end: C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
 
-DB: Relational: Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore, Redis. 
+- DB: Relational: Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore, Redis. 
 
-Mobile: Swift, React Native, Flutter.  
+! Mobile: Swift, React Native, Flutter.  
 
-Other: CI/CD, git rebase/amend/bisect.
+! Other: CI/CD, git rebase/amend/bisect.
 
-Desktop App: Electron, Delphi. 
+! Desktop App: Electron, Delphi. 
 
-Modeling: Blender, 3dsMax, SketchUp. 
+# Modeling: Blender, 3dsMax, SketchUp. 
 
-UX/UI ``` Figma, Canva.  
+# UX/UI ``` Figma, Canva.  
 
 ```
 
