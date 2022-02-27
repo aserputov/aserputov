@@ -4,7 +4,7 @@
 <!-- ![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030) -->
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030" alt="NazarovAsadbek github stats" /> 
-  <img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&layout=compact&theme=vue" />
+  <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&layout=compact&theme=vue" />
 </div>
 
 <!-- [![](https://img.shields.io/badge/-JavaScript-green?logo=JavaScript&logoColor=white&style=flat)](https://www.https://www.javascript.com)
