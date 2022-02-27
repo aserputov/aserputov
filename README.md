@@ -8,7 +8,7 @@
 </div> -->
 
 <div align="center">  
-  <img width="49%" height="195px" font-size="40px" src="https://github-readme-stats.vercel.app/api?username=aserputov&show_icons=true&count_private=true&hide_border=true&icon_color=00bfbf&theme=vue"  /> 
+  <img width="49%" height="195px" font-size="10px" src="https://github-readme-stats.vercel.app/api?username=aserputov&show_icons=true&count_private=true&hide_border=true&icon_color=00bfbf&theme=vue"  /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&layout=compact&hide_border=true&theme=vue" />
 </div>
 
