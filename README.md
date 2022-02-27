@@ -3,7 +3,7 @@
 <!-- [![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&border_color=#303030&theme=vue)](https://github.com/aserputov?tab=repositories) -->
 <!-- ![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030) -->
 <div align="center">  
-  <img width="49.9%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030" alt="NazarovAsadbek github stats" /> 
+  <img width="49.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030" alt="NazarovAsadbek github stats" /> 
 <img width="49.9%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030" /> 
 </div>
 
