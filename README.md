@@ -12,7 +12,7 @@
 ```diff
 + Skills
 
-Front-end: HTML, CSS, JavaScript, TypeScript. Frameworks:``` React, Angular, Vue. 
+Front-end: HTML, CSS, JavaScript, TypeScript. + Frameworks:``` React, Angular, Vue. 
 
 Back-end: C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
 
