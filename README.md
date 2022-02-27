@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Welcome&fontSize=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+AnatoliySerputoff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=AnatoliySerputoff)](https://git.io/typing-svg)
 
 <!-- [![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&border_color=#303030&theme=vue)](https://github.com/aserputov?tab=repositories) -->
 <!-- ![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030) -->
