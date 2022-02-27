@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Welcome&fontSize=50)
 
-[![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&border_color=#303030)](https://github.com/aserputov?tab=repositories)
+[![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&border_color=#303030&title_color=#303030)](https://github.com/aserputov?tab=repositories)
 
 <!-- [![](https://img.shields.io/badge/-JavaScript-green?logo=JavaScript&logoColor=white&style=flat)](https://www.https://www.javascript.com)
 [![](https://img.shields.io/badge/-MongoDB-blue?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)
