@@ -27,7 +27,7 @@
 - &nbsp;&nbsp;``` Modeling: ``` Blender, 3dsMax, SketchUp. 
 
 - &nbsp;&nbsp;``` UX/UI ``` Figma, Canva.  
-
+```
 
 [More Info ...](https://github.com/aserputov/serputov)
 
