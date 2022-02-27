@@ -10,8 +10,8 @@
 </div> -->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&show_icons=true&count_private=true&hide_border=true&icon_color=00bfbf&theme=vue&title_color=00bfbf&text_color=00bfbf"  /> 
-  <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&layout=compact&hide_border=true&theme=vue&langs_count=7&title_color=00bfbf&text_color=00bfbf" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&show_icons=true&count_private=true&hide_border=true&icon_color=00bfbf&theme=vue"  /> 
+  <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&layout=compact&hide_border=true&theme=vue&langs_count=7" />
 </div>
 
 <!-- [![](https://img.shields.io/badge/-JavaScript-green?logo=JavaScript&logoColor=white&style=flat)](https://www.https://www.javascript.com)
