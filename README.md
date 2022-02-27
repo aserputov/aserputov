@@ -4,7 +4,6 @@
 <!-- ![Serputoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030) -->
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aserputov&theme=vue&show_icons=true&title_color=#303030" alt="NazarovAsadbek github stats" /> 
-<img width="1%" height="195px" src="" /> 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=vue" /> 
 </div>
 
