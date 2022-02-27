@@ -12,21 +12,21 @@
 ```diff
 + Green
 
-- &nbsp;&nbsp;``` Front-end: ``` HTML, CSS, JavaScript, TypeScript. ```Frameworks:``` React, Angular, Vue. 
+- Front-end: HTML, CSS, JavaScript, TypeScript. Frameworks:``` React, Angular, Vue. 
 
-- &nbsp;&nbsp;``` Back-end: ``` C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
+- Back-end: C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
 
-- &nbsp;&nbsp;``` DB: ``` ```Relational:``` Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore, Redis. 
+- DB: Relational: Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore, Redis. 
 
-- &nbsp;&nbsp;``` Mobile: ``` Swift, React Native, Flutter.  
+- Mobile: Swift, React Native, Flutter.  
 
-- &nbsp;&nbsp;``` Other ``` CI/CD, git rebase/amend/bisect.
+- Other: CI/CD, git rebase/amend/bisect.
 
-- &nbsp;&nbsp;``` Desktop App: ``` Electron, Delphi. 
+- Desktop App: Electron, Delphi. 
 
-- &nbsp;&nbsp;``` Modeling: ``` Blender, 3dsMax, SketchUp. 
+- Modeling: Blender, 3dsMax, SketchUp. 
 
-- &nbsp;&nbsp;``` UX/UI ``` Figma, Canva.  
+- UX/UI ``` Figma, Canva.  
 ```
 
 [More Info ...](https://github.com/aserputov/serputov)
