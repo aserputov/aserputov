@@ -19,21 +19,21 @@
 [![](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat)](https://www.reactjs.org)
 [![](https://img.shields.io/badge/-Angular-blue?logo=angular&logoColor=white&style=flat)](https://www.angular.com)
 [![](https://img.shields.io/badge/-Swift-green?logo=Swift&logoColor=white&style=flat)](https://www.swift.org) -->
-
+<!-- !-@@# -->
 ```diff
 + Skills
 
-- Front-end: HTML, CSS, JavaScript, TypeScript. + Frameworks:``` React, Angular, Vue. 
+# Front-end: HTML, CSS, JavaScript, TypeScript. + Frameworks:``` React, Angular, Vue. 
 
-- Back-end: C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
+# Back-end: C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
 
-- DB: Relational: Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore, Redis. 
+# DB: Relational: Oracle(SQL/PLSQL), MySQL, SqlLite ```Non-Relational:``` MongoDB, FireStore, Redis. 
 
-! Mobile: Swift, React Native, Flutter.  
+# Mobile: Swift, React Native, Flutter.  
 
-! Other: CI/CD, git rebase/amend/bisect.
+# Other: CI/CD, git rebase/amend/bisect.
 
-! Desktop App: Electron, Delphi. 
+# Desktop App: Electron, Delphi. 
 
 # Modeling: Blender, 3dsMax, SketchUp. 
 
