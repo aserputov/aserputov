@@ -23,23 +23,11 @@
 ```diff
 + Skills
 
-# Front-end: HTML, CSS, JavaScript, TypeScript. + Frameworks: React, Angular, Vue. 
+# Typescript, Node.js, Bash, Python. C, C++. Docker, Kubernetes. GraphQl, git, Active Directory, AWS DS. 
 
-# Back-end: C, C++(OOP), Java(OOP), Node.js, Pascal, Python. 
+# CI/CD: Jenkins, GitHub Actions. DBMS: MySQL, DynamoDb, Mongo etc. Messaging/Queue: SQS. Kinesis 
 
-# DB: Relational: Oracle(SQL/PLSQL), MySQL, SqlLite Non-Relational: MongoDB, FireStore, Redis. 
-
-# Mobile: Swift, React Native, Flutter.  
-
-# Other: CI/CD, git rebase/amend/bisect.
-
-# Desktop App: Electron, Delphi. 
-
-# Modeling: Blender, 3dsMax, SketchUp. 
-
-# UX/UI: Figma, Canva.  
-
-# Additional: Docker
+# IaC: CloudFormation, Terraform. AWS: EC2, ELB, RDS, S3, CloudWatch, ECS, EKS, Lambda e.t.c. Kibana/Grafana. 
 
 ```
 
