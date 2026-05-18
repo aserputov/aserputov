@@ -104,19 +104,6 @@ Frequency-based language model implementing core next-token prediction from scra
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aserputov&show_icons=true&count_private=true&hide_border=true&icon_color=00bfbf&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aserputov&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=aserputov&hide_border=true&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-</div>
-
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,50:161b22,100:0d1117&height=100&section=footer)
