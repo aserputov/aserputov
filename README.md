@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Anatoliy%20Serputov&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=ML%20Systems%20Engineer%20%E2%80%A2%20LLM%20Infrastructure&descSize=16&descColor=8b949e&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0052d4&height=220&section=header&text=Anatoliy%20Serputov&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=ML%20Systems%20Engineer%20%E2%80%A2%20LLM%20Infrastructure&descSize=16&descColor=a3c2fa&descAlignY=55)
 
-[![Gmail](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serputoff@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-0052d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serputoff@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aserputov)
 
 </div>
