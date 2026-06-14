@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00bfbf&height=220&section=header&text=Anatoliy%20Serputov&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20LLM%20Infrastructure%20%E2%80%A2%20Inference%20Systems&descSize=16&descColor=00bfbf&descAlignY=55)
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serputof7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serputoff@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aserputov)
 
 </div>
