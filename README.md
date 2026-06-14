@@ -17,10 +17,6 @@ When I'm not at work, I'm benchmarking inference engines, profiling KV cache bot
 
 ---
 
-## What I'm Contributing
-
-### 🏆 Open Source Contributions
-* **[vLLM Project](https://github.com/vllm-project/vllm)**: Contributed to the distributed inference engine. Clarified aggregation semantics for the NIXL KV Cache Connector in Disaggregated Serving architectures ([PR #45607](https://github.com/vllm-project/vllm/pull/45607)).
 
 ## What I'm Building
 
